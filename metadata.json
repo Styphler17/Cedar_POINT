@@ -1,0 +1,6 @@
+{
+  "name": "Cedar Point Chemist",
+  "description": "Cedar Point Chemist pharmacy shop and healthcare dispensary — shop quality medicines, vitamins, and healthcare solutions in Ghana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
